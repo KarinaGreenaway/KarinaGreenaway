@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KarinaGreenaway
 - 👀 I’m interested in learning new coding languages and skills
-- 🌱 I’m currently learning to use php in collaboration with mySQL
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on ... (nothing at the moment)
 - 📫 How to reach me KarinaGreenaway@outlook.com
 
